@@ -1,4 +1,4 @@
-package = "kong-jwt2header"
+package = "kong-plugin-jwt2header"
 version = "1.0-3"
 
 source = {
